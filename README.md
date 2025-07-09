@@ -1,6 +1,6 @@
 # Restaurant Data Scraper
-
-This project is a Python-based web scraper that collects restaurant data and reviews from Google Maps using Playwright. The scraper extracts details such as restaurant name, category, price range, address, website, phone number, coordinates, and reviews (including language and ratings).
+*This code was written as part of my research assistantship position at NYU Abu Dhabi.*
+This project is a Python-based web scraper that collects restaurant data and reviews from Google Maps using Playwright. The scraper extracts details such as restaurant name, category, price range, address, website, phone number, coordinates, and reviews (including language and ratings). 
 
 ## Features
 
